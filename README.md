@@ -1,6 +1,6 @@
 # Fuckass Agenda
 
-A modern, minimalist agenda app built with React Native and Expo. Keep track of your daily tasks with a clean and intuitive interface.
+Live in the now, forget the past and dont worry about the future
 
 ## Features
 
