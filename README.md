@@ -25,7 +25,7 @@ able to see what you have to do upcoming week, until its the day.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FuckassAgenda.git
+git clone https://github.com/JelleBultiauw/FuckassAgenda/
 cd FuckassAgenda
 ```
 
