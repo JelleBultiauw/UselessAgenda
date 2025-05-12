@@ -6,7 +6,6 @@ Live in the now, forget the past and dont worry about the future
 
 - 📅 Weekly view with easy date navigation
 - ✨ Clean and modern UI design
-- 🌓 Dark mode support
 - ⏰ Time tracking for tasks
 - ✅ Task completion tracking
 - 📱 Cross-platform (iOS & Android)
