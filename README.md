@@ -1,6 +1,8 @@
 # Fuckass Agenda
 
 Live in the now, forget the past and dont worry about the future
+youre not able to see what you did yesterday or before and neither are you
+able to see what you have to do upcoming week, until its the day.
 
 ## Features
 
