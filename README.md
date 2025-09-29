@@ -20,5 +20,3 @@ able to see what you have to do upcoming week, until its the day.
 - Expo
 - TypeScript
 - React Navigation
-- AsyncStorage for data persistence
-- date-fns for date manipulation
